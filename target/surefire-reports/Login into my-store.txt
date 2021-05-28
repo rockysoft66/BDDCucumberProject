@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Login into my-store
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.878 s - in Login into my-store
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.73 s - in Login into my-store

@@ -1,36 +1,36 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "c8e20fce-68b8-4e4a-b6ec-9a505c152b98",
+    "id": "0fd69bde-27e0-45da-a84c-3db9e2a26f34",
     "feature": "Login into my-store",
     "scenario": "Login page Title",
-    "start": 1622213446627,
+    "start": 1622216561057,
     "group": 15,
     "content": "",
     "tags": "",
-    "end": 1622213455124,
+    "end": 1622216573375,
     "className": "passed"
   },
   {
-    "id": "0c9de79e-2d06-460b-93e3-7501b48c4e9f",
-    "feature": "Login into my-store",
-    "scenario": "Login with validate creditials",
-    "start": 1622213463136,
-    "group": 15,
-    "content": "",
-    "tags": "",
-    "end": 1622213473349,
-    "className": "passed"
-  },
-  {
-    "id": "d9a6dbb7-1c6b-4025-b610-2d00d52ce919",
+    "id": "0d003c6b-8d31-4177-8a4d-2f1c53d4d7df",
     "feature": "Login into my-store",
     "scenario": "Login page Log",
-    "start": 1622213455150,
+    "start": 1622216573403,
     "group": 15,
     "content": "",
     "tags": "",
-    "end": 1622213463127,
+    "end": 1622216581034,
+    "className": "passed"
+  },
+  {
+    "id": "8841568b-4cfa-4e32-a9bf-793e6df6822e",
+    "feature": "Login into my-store",
+    "scenario": "Login with validate creditials",
+    "start": 1622216581042,
+    "group": 15,
+    "content": "",
+    "tags": "",
+    "end": 1622216592638,
     "className": "passed"
   }
 ]);
