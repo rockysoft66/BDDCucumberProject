@@ -34,6 +34,15 @@ public class LoginPage {
 
 		return driver.findElement(forgotpasswordlink).isEnabled();
 	}
+	
+	public AccountPage dologin(String username,String passwod){
+		driver.findElement(emailId).sendKeys(username);
+		driver.findElement(password).sendKeys(passwod);
+		driver.findElement(signButton).click();
+		
+		return new AccountPage(driver);
+	}
+	
 
 
 
